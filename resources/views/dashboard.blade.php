@@ -105,7 +105,7 @@
                 <!-- Contoh produk statis -->
                 <div
                     class="bg-white rounded-xl shadow-md overflow-hidden hover:shadow-xl hover:scale-[1.03] transition-all duration-300">
-                    <img src="images/helm1.jpg" alt="Helm Full Face" class="w-full h-52 object-cover">
+                    <img src="images/1752648896_68774cc00caaf.jpeg" alt="Helm Full Face" class="w-full h-52 object-cover">
                     <div class="p-4 space-y-2">
                         <h3 class="font-bold text-lg text-gray-800 truncate">Helm Full Face Racing</h3>
                         <span
@@ -119,7 +119,7 @@
 
                 <div
                     class="bg-white rounded-xl shadow-md overflow-hidden hover:shadow-xl hover:scale-[1.03] transition-all duration-300">
-                    <img src="images/helm2.jpg" alt="Helm Retro" class="w-full h-52 object-cover">
+                    <img src="images/1752648896_68774cc00caaf.jpeg" alt="Helm Retro" class="w-full h-52 object-cover">
                     <div class="p-4 space-y-2">
                         <h3 class="font-bold text-lg text-gray-800 truncate">Helm Retro Klasik</h3>
                         <span

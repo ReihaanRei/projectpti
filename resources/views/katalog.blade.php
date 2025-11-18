@@ -144,11 +144,8 @@
                 <div
                     class="group bg-white rounded-xl shadow-sm overflow-hidden hover:-translate-y-2 hover:shadow-md transition-all duration-300">
                     <div class="relative w-full h-56 bg-gray-50 overflow-hidden">
-                        <img src="https://cdn.pixabay.com/photo/2016/09/22/12/51/motorcycle-1687612_1280.jpg"
+                        <img src="images/1752648896_68774cc00caaf.jpeg"
                             alt="Helm Full Face" class="w-full h-full object-cover p-4">
-                        <span
-                            class="absolute top-3 right-3 bg-amber-500 text-white font-bold px-3 py-1 rounded-full text-xs shadow"><i
-                                class="fas fa-certificate mr-1"></i> BARU</span>
                     </div>
                     <div class="p-5">
                         <h3 class="font-bold text-lg truncate mb-2 group-hover:text-blue-600">Helm Full Face Racing</h3>
@@ -165,7 +162,7 @@
                 <div
                     class="group bg-white rounded-xl shadow-sm overflow-hidden hover:-translate-y-2 hover:shadow-md transition-all duration-300">
                     <div class="relative w-full h-56 bg-gray-50 overflow-hidden">
-                        <img src="https://cdn.pixabay.com/photo/2016/02/19/11/53/helmet-1209858_1280.jpg"
+                        <img src="images/1752648896_68774cc00caaf.jpeg"
                             alt="Helm Half Face" class="w-full h-full object-cover p-4">
                     </div>
                     <div class="p-5">

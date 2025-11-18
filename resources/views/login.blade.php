@@ -11,7 +11,7 @@
     <div class="bg-white p-8 rounded-2xl shadow-2xl w-full max-w-md">
         <!-- Tombol Kembali -->
         <div class="mb-4">
-            <a href="index.html" class="text-sm text-gray-500 hover:text-blue-600 hover:underline flex items-center gap-1">
+            <a href="/dashboard" class="text-sm text-gray-500 hover:text-blue-600 hover:underline flex items-center gap-1">
                 <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5 text-white bg-blue-500 rounded hover:bg-blue-700" viewBox="0 0 20 20" fill="currentColor">
                     <path fill-rule="evenodd" d="M9.707 14.707a1 1 0 01-1.414 0L3.586 10l4.707-4.707a1 1 0 011.414 1.414L6.414 10l3.293 3.293a1 1 0 010 1.414z" clip-rule="evenodd" />
                 </svg>
