@@ -21,3 +21,11 @@ Route::get('/login', function () {
 Route::get('/adminDashboard', function () {
     return view('adminDashboard');
 });
+
+Route::get('/detailProduk', function () {
+    return view('detailProduk');
+});
+
+Route::get('/maps', function () {
+    return view('maps');
+});

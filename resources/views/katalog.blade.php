@@ -151,9 +151,11 @@
                         <h3 class="font-bold text-lg truncate mb-2 group-hover:text-blue-600">Helm Full Face Racing</h3>
                         <p class="text-blue-600 font-semibold text-xl">Rp750.000</p>
                         <div class="mt-3">
+                            <a href="/detailProduk">
                             <span
                                 class="inline-block text-center w-full bg-blue-600 text-white py-2 rounded-lg text-sm hover:bg-blue-700 transition">Lihat
                                 Detail →</span>
+                            </a>
                         </div>
                     </div>
                 </div>
