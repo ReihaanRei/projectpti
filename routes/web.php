@@ -29,3 +29,11 @@ Route::get('/detailProduk', function () {
 Route::get('/maps', function () {
     return view('maps');
 });
+
+Route::get('/createProduk', function () {
+    return view('admin/createProduk');
+});
+
+Route::get('/createKategori', function () {
+    return view('admin/createKategori');
+});
