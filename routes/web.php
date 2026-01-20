@@ -137,3 +137,14 @@ Route::prefix('admin')->middleware('auth')->group(function () {
 Route::get('/maps', function () {
     return view('maps');
 });
+<<<<<<< HEAD
+=======
+
+Route::get('/createProduk', function () {
+    return view('admin/createProduk');
+});
+
+Route::get('/createKategori', function () {
+    return view('admin/createKategori');
+});
+>>>>>>> 773dfda3ae6dd8a727db891608c5dea126b2e2ac
